@@ -22,4 +22,4 @@
 ![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=dart&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
- ![Snake animation](https://github.com/dev-dancavalcanti/dev-dancavalcanti/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/dev-dancavalcanti/dev-dancavalcanti/blob/output/github-contribution-grid-snake.svg)
