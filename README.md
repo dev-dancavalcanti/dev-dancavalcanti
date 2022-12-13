@@ -26,3 +26,5 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{dev-dancavalcanti}/count.svg" /></p> 
 <br>
 </div>
+
+ ![Snake animation](https://github.com/dev-dancavalcanti/dev-dancavalcanti/blob/output/github-contribution-grid-snake.svg)
