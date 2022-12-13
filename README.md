@@ -21,10 +21,5 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=dart&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{dev-dancavalcanti}/count.svg" /></p> 
-<br>
-</div>
 
  ![Snake animation](https://github.com/dev-dancavalcanti/dev-dancavalcanti/blob/output/github-contribution-grid-snake.svg)
