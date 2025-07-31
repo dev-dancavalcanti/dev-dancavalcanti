@@ -11,8 +11,6 @@
   <p>🚀 No momento, estou focado em aprimorar minhas habilidades e construir projetos que resolvam problemas reais.</p>
 </div>
 
---
-
 ### Minhas Habilidades
 
 <p align="left">
@@ -22,8 +20,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
 </p>
 
-
---
 
 ### Conecte-se comigo
 
