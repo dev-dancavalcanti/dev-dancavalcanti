@@ -1,7 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
 
-<h1 align="center">Daniel | Desenvolvedor Mobile (Flutter)</h1>
-<h3 align="center">Bem-vindo ao meu mundo!</h3>
+<h1 align="center">E ai, prazer ter você aqui! Bom ou não?</h1>
+<h3 align="center">Bem-vindo ao meu mundo!</h3> 
+<h3 align="center">Eu sou Daniel, Desenvolvedor Mobile Flutter</h3>
 
 
 ### Main skills:
