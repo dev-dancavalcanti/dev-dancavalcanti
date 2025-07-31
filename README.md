@@ -11,7 +11,7 @@
 
 ### Minhas Habilidades
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Badge"/>
@@ -27,7 +27,7 @@
 
 ### Conecte-se comigo
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/daniel-lucas-cavalcanti/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
