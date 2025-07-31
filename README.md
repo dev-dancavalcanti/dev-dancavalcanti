@@ -6,6 +6,10 @@
 <p align="center">
   Tenho como missão transformar ideias em aplicativos incríveis e funcionais. Meu foco é criar experiências de usuário fluidas e de alta performance, utilizando as melhores ferramentas do mercado.
 </p>
+<div align="center">
+  <br>
+  <p>🚀 No momento, estou focado em aprimorar minhas habilidades e construir projetos que resolvam problemas reais.</p>
+</div>
 
 ---
 
@@ -18,10 +22,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
 </p>
 
-<div align="center">
-  <br>
-  <p>🚀 No momento, estou focado em aprimorar minhas habilidades e construir projetos que resolvam problemas reais.</p>
-</div>
 
 ---
 
