@@ -11,7 +11,7 @@
   <p>🚀 No momento, estou focado em aprimorar minhas habilidades e construir projetos que resolvam problemas reais.</p>
 </div>
 
----
+--
 
 ### Minhas Habilidades
 
@@ -23,7 +23,7 @@
 </p>
 
 
----
+--
 
 ### Conecte-se comigo
 
